@@ -67,7 +67,7 @@ var STYLES = {
 
     br: {
       top: 'auto',
-      bottom: '0px',
+      bottom: '30px',
       left: 'auto',
       right: '0px'
     },
